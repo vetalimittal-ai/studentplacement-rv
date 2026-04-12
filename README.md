@@ -11,7 +11,7 @@ Impact of CGPA on salary packages
 Role of certifications and internships
 Skill-based performance (DSA & aptitude)
 Overall placement performance
-🖼 Dashboard Preview
+🖼 Dashboard Preview 
 ![image](placement image .jpg)
 
 ---
