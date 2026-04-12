@@ -12,7 +12,9 @@ Role of certifications and internships
 Skill-based performance (DSA & aptitude)
 Overall placement performance
 🖼 Dashboard Preview
+![image](placement image .jpg)
 
+---
 📈 Key Performance Indicators (KPIs)
 KPI	Value	Description
 Average CGPA	7.21	Overall academic performance
