@@ -15,9 +15,8 @@ It helps stakeholders understand:
 
 ---
 
-## 🖼 Dashboard Preview
-
-![Student Placement Dashboard](dashboard.png)
+## 🖼 Dashboard Preview 
+![placement image ](placement %20image.jpg)
 
 ---
 
